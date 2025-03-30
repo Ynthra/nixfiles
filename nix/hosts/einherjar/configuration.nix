@@ -153,6 +153,7 @@ in {
       protonvpn-gui
       waydroid
       ffmpeg
+      element-desktop
     ];
   };
 
