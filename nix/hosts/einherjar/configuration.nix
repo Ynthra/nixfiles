@@ -154,6 +154,7 @@ in {
       waydroid
       ffmpeg
       element-desktop
+      hashcat
     ];
   };
 
